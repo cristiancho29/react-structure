@@ -1,7 +1,7 @@
 {
-  "name": "react-login",
-  "version": "1.0.0",
-  "description": "react login form + firebase",
+  "name": "printink-frontend",
+  "version": "0.0.0",
+  "description": "FrontEnd para PrintInk",
   "main": "server.js",
   "scripts": {
     "start": "nodemon --use_strict server.js",
@@ -9,32 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jestrade/react-login-form.git"
+    "url": "git+https://github.com/cristiancho29/printink-frontend.git"
   },
   "keywords": [
     "react",
-    "login",
-    "form",
-    "firebase",
-    "sass",
-    "webpack",
-    "npm",
-    "nodejs"
+    "printink"
   ],
-  "author": "jestrade",
+  "author": "Cristian Suárez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jestrade/react-login-form/issues"
+    "url": "https://github.com/cristiancho29/printink-frontend/issues"
   },
-  "homepage": "https://github.com/jestrade/react-login-form#readme",
+  "homepage": "https://github.com/cristiancho29/printink-frontend#readme",
   "dependencies": {
-    "express": "^4.15.3",
-    "firebase": "^4.3.0",
-    "material-ui": "^1.0.0-beta.11",
-    "material-ui-icons": "^1.0.0-beta.10",
-    "path": "^0.12.7",
-    "react-router-dom": "^4.2.2",
-    "typeface-roboto": "0.0.35"
+    "express": "^4.15.3"
   },
   "devDependencies": {
     "babel-core": "^5.3.3",
