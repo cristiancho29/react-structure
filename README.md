@@ -1,1 +1,1 @@
-# printink-frontend
+# Estructura básica para proyectos en ReactJs
